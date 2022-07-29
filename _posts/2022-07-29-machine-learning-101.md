@@ -29,7 +29,7 @@ In order to understand ML, we first need to get ourselves familiar with the
 term *Artificial Intelligence* (AI).
 In the 1950s, *John McCarthy* came up with the term *Artificial Intelligence*.
 *Alan Turing*, after solving the Nazi encryption machine *Enigma*, came up with
-a simple question that laid the foundation to today's AI
+a simple question that laid the foundation for today's AI
 -- Can Machines Think? In 1950, he published the paper *Computing Machinery
 and Intelligence* which introduced the widely popular *Turing Test*.
 
@@ -75,14 +75,14 @@ Source: Google I/O 2019
 </div>
 
 In traditional programming, we give a set of rules to the AI agent along with
-some information or data. The agent uses its rationaly thinking capacity and
+some information or data. The agent uses its rational thinking capacity and
 comes up with a solution. In Machine Learning, we give both the data and the
 solution to an agent. The agent analyzes the data, developing a set of rules
 by looking at the given solutions.
 
 During *training* phase, the AI model develops a mapping function that maps
 the given data and the solution. This mapping function becomes the set of
-rules that we would provide manually to the agent in traditionally. Thus, the
+rules that we would provide manually to the agent traditionally. Thus, the
 AI has learnt those rules without us humans explicitly mentioning the rules.
 This mapping function can then be used later during *evaluation* phase to
 come up with solutions for new problems of similar kind.
@@ -104,15 +104,15 @@ subset of Machine Learning.
 
 In order to get an intuition behind all the theory discussed above, let us take
 the example of filtering out irrelevant emails and marking them as spam.
-The problem statement is fairly straight forward -- given an email, classify it
+The problem statement is fairly straightforward -- given an email, classify it
 as spam or not spam. Let us see how this problem can be solved in different
 ways using AI and ML.
 
 #### Approach 1: Traditional Artificial Intelligence
 
 We take a collection of emails. We go through each email, and manually
-classify it whether it is a spam or not. If it is a spam, we note down why we
-think it is a spam. It could be because of the following reasons (not restricted):
+classify it as spam or not. If it is a spam, we note down why we
+think it is spam. It could be because of the following reasons (not restricted):
 - Subject of the email contains offers like "50% off".
 - Address of the email irrelevant such as "abc@marketing.com".
 - It is a phishing email with words like "Congrats! You've won so and so".
@@ -145,7 +145,7 @@ probability, specifically *Bayes' Theorem*.
 $$\Pr(A \mid B)=\frac{\Pr(B \mid A) \cdot \Pr(A)}{\Pr(B)}$$
 
 Naive Bayes model first looks at previous data, and estimates the probability
-of an email being spam, given the prior probability of occurence of words.
+of an email being spam, given the prior probability of occurrence of words.
 For example, the model might come up with a rule such as if the mail contains
 the phrase "Congrats!" and "50% off", it will classify it as spam with a certain
 probability, say 0.8 or 80%. This depends on the prior probability that it calculated looking at
