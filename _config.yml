@@ -30,7 +30,7 @@ github_username: Gautam-J
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 
 highlighter: rouge
 kramdown:

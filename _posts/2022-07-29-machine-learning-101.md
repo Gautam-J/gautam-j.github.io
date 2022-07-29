@@ -5,8 +5,7 @@ mathjax: true
 title: Machine Learning 101
 excerpt: Learn what exactly is machine learning, and develop an
   intuition behind its workings.
-date: 2022-07-29 00:00:00 +0530
-permalink: /:title
+date: 2022-07-29 00:00:00
 ---
 
 <div class="imgcap">
@@ -163,4 +162,4 @@ Learning*. Think of other examples where you differentiate both the approaches
 clearly for a better understanding. If there are any clarifications, put them down
 in the comments.
 
-Happy Learning.
+Happy Learning!
