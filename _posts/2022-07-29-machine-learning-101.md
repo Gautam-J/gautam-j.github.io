@@ -158,7 +158,7 @@ After training the model, we can use the model to classify new incoming emails.
 From the above example, it is clear that traditional AI requires a human to
 come up with a set of rules that an agent would follow. In ML, we let the agent
 *learn* the set of rules from a given set of data, hence the name *Machine
-Learning*. Think of other examples where you differentiate both the approaches
+Learning*. Think of other examples where you can differentiate both the approaches
 clearly for a better understanding. If there are any clarifications, put them down
 in the comments.
 
