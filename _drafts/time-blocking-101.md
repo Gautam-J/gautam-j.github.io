@@ -152,7 +152,8 @@ this dedicated time. This allows you to concentrate on deep levels, and thus you
 will also be much better. It helps you quickly learn hard things and also produce at
 an elite level.
 
-> To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.<br>
+> Deep Work: Professional activities performed in a state of distraction-free concentration
+> that push your cognitive capabilities to their limit.<br>
 > -- Cal Newport
 
 When people multitask, or even switch from one task to another, their attention does
@@ -161,8 +162,7 @@ previous task. This effect is known as **attention residue**. This residue gets
 thick if you put low-effort and do not complete the previous task. By leveraging
 time blocking and deep work, we can escape from the attention residue effect.
 
-> Deep Work: Professional activities performed in a state of distraction-free concentration
-> that push your cognitive capabilities to their limit.<br>
+> To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.<br>
 > -- Cal Newport
 
 <div class="imgcap">
@@ -290,4 +290,6 @@ people such as Elon Musk and Bill Gates. It lets you control your entire day, an
 sure that not a single minute of your time goes wasted. In order to leverage this technique
 and make use of it, one must be motivated and have discipline over themselves. The best
 part about this technique is that it works for everyone, irrespective of your domain of
-work.
+work. I hope this blog was informative and inspired you to get into better time management.
+
+Happy Working!
