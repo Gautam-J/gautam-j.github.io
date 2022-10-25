@@ -1,10 +1,10 @@
 ---
 layout: post
-comments: false
+comments: true
 mathjax: false
 title: Time Blocking 101
 excerpt: Master time management using the time blocking technique used by Elon Musk and Bill Gates.
-date: 2022-10-20 00:00:00
+date: 2022-10-25 00:00:00
 ---
 
 <div class="imgcap">
