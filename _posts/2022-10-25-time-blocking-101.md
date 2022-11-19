@@ -62,9 +62,9 @@ The second problem that causes bad time management: **open loops**.
 > -- Kerry Gleeson
 
 Unfinished tasks stay better and longer in our short term memory (than finished tasks),
-until we finish them. However, we can fool the brain into thinking the task is done
-by simply writing it down. This is known as the **Zeigarnik effect**, named after
-the Russian Psychologist -- _Bluma Zeigarnik_.
+until we finish them. This is known as the **Zeigarnik effect**, named after
+the Russian Psychologist -- _Bluma Zeigarnik_. However, we can fool the brain into thinking the task is done
+by simply writing it down.
 
 <div class="imgcap">
 <img src="/assets/zeigarnikeffect.png" height="400px" />
